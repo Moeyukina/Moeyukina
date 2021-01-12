@@ -24,8 +24,8 @@ Hi,I am Moeyukina. A IT operations and a college student.
 
 #### Reach me: 
 
-&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.moeyukina.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.moeyukina.top)  [![Telegram](https://img.shields.io/badge/-https://t.me/moeyukina-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/moeyukina)  [![Email](https://img.shields.io/badge/-pin1354238538@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:pin1354238538@gmail.com)
+&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.moeyukina.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.moeyukina.top)   [![Twitter](https://img.shields.io/badge/-https://twitter.com/moeyukina-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/moeyukina)  [![Email](https://img.shields.io/badge/-pin1354238538@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:pin1354238538@gmail.com)
 
 <!--
-[![Twitter](https://img.shields.io/badge/-https://twitter.com/moeyukina-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/moeyukina)
+[![Telegram](https://img.shields.io/badge/-https://t.me/moeyukina-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/moeyukina)
 >
