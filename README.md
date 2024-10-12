@@ -1,7 +1,3 @@
-<a href="https://github.com/moeyukina?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=moeyukina&show_icons=true&hide_border=true" />
-</a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeyukina)](https://github.com/anuraghazra/github-readme-stats)
 
 
