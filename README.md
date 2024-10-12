@@ -5,7 +5,7 @@ My GitHub Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyukina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Learning:
-- ![CSharp](https://img.shields.io/badge/.NET-Lua?style=flat-square&logo=Csharp&logoColor=fff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+- ![CSharp](https://img.shields.io/badge/-CSharp-007396?style=flat-square&logo=Csharp&logoColor=fff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 
 #### Interested in these things:
 - ![Raspberry-Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry%20pi&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
