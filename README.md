@@ -2,6 +2,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=moeyukina&show_icons=true&hide_border=true" />
 </a>
 
+![GitHub language count](https://img.shields.io/github/languages/count/moeyukina/:repo)
+
 ### Hello World！
 Hi,I am Moeyukina. A IT operations and a college student.
 
