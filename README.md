@@ -1,8 +1,7 @@
+### Hello (∠・ω< )⌒☆
+My GitHub Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeyukina)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyukina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hello World！
-Hi,I am Moeyukina. A IT operations and a college student.
 
 #### Learning:
 - ![CSharp](https://img.shields.io/badge/-CSharp-007396?style=flat-square&logo=Csharp&logoColor=fff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
